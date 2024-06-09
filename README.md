@@ -24,6 +24,4 @@ Once NumPy is installed, you can run the examples in a Jupyter notebook or any P
 - **Statistical Functions**: Examples of using NumPy's statistical functions like `np.mean()`, `np.std()`, and `np.var()`.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is not currently licensed.
